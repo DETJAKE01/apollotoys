@@ -1,0 +1,28 @@
+[{
+        "id": 1,
+        "nome": "UNO",
+        "descrição": " É fácil começar... é impossível parar! Livre-se depressa de suas cartas combinando cores e números, só não se esqueça de gritar UNO!",
+        "preço": 16.00,
+        "estoque": 80,
+        "img": "https://copagloja.vteximg.com.br/arquivos/ids/163180-1000-1000/Mockup-UNO.png?v=637927056147830000",
+        "href":"/produto1"
+    },
+    {
+        "id": 2,
+        "nome": "Monopoly",
+        "descrição": "Jogo perfeito para quem ama brinquedos e jogos de tabuleiro clássicos, no Monopoly os jogadores devem comprar, vender e trapacear para conquistar fortunas. Há um novo milionário na cidade! Para vencer, é preciso negociar imóveis, cobrar aluguel e construir um império. Monopoly é um jogo de tabuleiro que brinca com o mundo das finanças e investimentos e é ideal para adultos e crianças a partir de 8 anos. Para trazer ainda mais emoção ao jogo, as cartas Sorte e Cofre podem mudar o destino dos jogadores! Qual carta vai dar dinheiro e qual carta vai enviar o jogador para a cadeia? Inclui peças clássicas como pato de borracha, tiranossauro rex e pinguim. É uma excelente atividade para uma reunião de família. Apenas uma pessoa pode vencer!",
+        "preço": 79.99,
+        "estoque": 13,
+        "img": "https://m.media-amazon.com/images/I/61OjsfvUVZL._AC_SX522_.jpg",
+        "href":"/produto2"
+    },
+    {
+        "id": 3,
+        "nome": "Cara a cara",
+        "descrição": " É loira? É mulher? Tem olhos verdes? Faça quantas perguntas precisar para descobrir qual é a 'cara' do seu adversário. Brinquedos Estrela é um fabricante líder de brinquedos. Vasta gama aos melhores preços. Inclui 2 tabuleiros plásticos, 48 molduras plásticas, 1 folha com 48 rostos, 1 folha com 24 cartas e 1 manual de instruções.",
+        "preço": 88.00,
+        "estoque": 20,
+        "img": "https://m.media-amazon.com/images/I/51PCbc6pf7L._AC_SX522_.jpg",
+        "href":"/produto3"
+    }
+]
